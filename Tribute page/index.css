@@ -1,0 +1,332 @@
+body{
+  background: rgba(7, 53, 122, 1);
+}
+.dhoni-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dhoni-dhoni {
+  width: 1200px;
+  height: 4856px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(7, 53, 122, 1);
+}
+.dhoni-ms-dhonisignatureremovebgpreview1 {
+  top: 3888px;
+  left: 899px;
+  width: 1345px;
+  height: 945px;
+  position: absolute;
+}
+.dhoni-rectangle1 {
+  top: -16px;
+  left: -552px;
+  width: 1920px;
+  height: 998px;
+  position: absolute;
+}
+.dhoni-ellipse1 {
+  top: 1021px;
+  left: 55px;
+  width: 457px;
+  height: 489px;
+  position: absolute;
+}
+.dhoni-ellipse2 {
+  top: 2163px;
+  left: 34px;
+  width: 469px;
+  height: 492px;
+  position: absolute;
+}
+.dhoni-ellipse3 {
+  top: 1921px;
+  right: 19px;
+  width: 457px;
+  height: 621px;
+  position: absolute;
+}
+.dhoni-ellipse4 {
+  top: 3309px;
+  left: 23px;
+  width: 457px;
+  height: 621px;
+  position: absolute;
+}
+.dhoni-rectangle2 {
+  top: 4px;
+  left: 4px;
+  width: 1368px;
+  height: 998px;
+  position: absolute;
+}
+.dhoni-text {
+  top: 669px;
+  left: 55px;
+  color: rgba(255, 255, 255, 1);
+  width: 1464px;
+  height: auto;
+  position: absolute;
+  font-size: 140px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Audiowide;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-text02 {
+  top: 856px;
+  left: 211px;
+  color: rgb(255, 255, 255);
+  width: 659px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Autour One";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-text03 {
+  top: 1519px;
+  color: rgb(255, 255, 255);
+  right: 48px;
+  width: 874px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Poppins";
+  font-weight: 400;
+  line-height: 143.2%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-text04 {
+  top: 1736px;
+  left: 35px;
+  color: rgba(255, 255, 255, 1);
+  width: 1038px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 143.20000410079956%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-text06 {
+  top: 2727px;
+  left: 49px;
+  color: rgb(255, 255, 255);
+  width: 843px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Poppins";
+  font-weight: 400;
+  line-height: 143.2%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-text07 {
+  top: 3024px;
+  color: rgba(255, 255, 255, 1);
+  right: 33px;
+  width: 955px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 143.20000410079956%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-ellipse5 {
+  top: 3986px;
+  left: 222px;
+  width: 181px;
+  height: 100px;
+  position: absolute;
+}
+.dhoni-text09 {
+  top: 4017px;
+  left: 274px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 143.20000410079956%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-text11 {
+  top: 4013px;
+  color: rgb(255, 255, 255);
+  right: 86px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Poppins";
+  font-weight: 400;
+  line-height: 143.2%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-ellipse6 {
+  left: 222px;
+  width: 181px;
+  bottom: 631px;
+  height: 100px;
+  position: absolute;
+}
+.dhoni-text12 {
+  left: 277px;
+  color: rgba(255, 255, 255, 1);
+  bottom: 654px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 143.20000410079956%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-text14 {
+  left: 504px;
+  color: rgba(255, 255, 255, 1);
+  bottom: 657px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 143.20000410079956%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-ellipse7 {
+  left: 230px;
+  width: 181px;
+  bottom: 471px;
+  height: 100px;
+  position: absolute;
+}
+.dhoni-text16 {
+  left: 281px;
+  color: rgba(255, 255, 255, 1);
+  bottom: 498px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 143.20000410079956%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-text18 {
+  left: 500px;
+  color: rgba(255, 255, 255, 1);
+  bottom: 497px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 143.20000410079956%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-rectangle3 {
+  left: 22px;
+  width: 1157px;
+  bottom: 160px;
+  height: 227px;
+  position: absolute;
+  border-radius: 30px;
+}
+.dhoni-text20 {
+  color: rgb(7, 53, 122);
+  right: 124px;
+  bottom: 300px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Poppins";
+  font-weight: 400;
+  line-height: 143.2%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-text21 {
+  left: 476px;
+  color: rgba(255, 255, 255, 0.6299999952316284);
+  bottom: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 143.20000410079956%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dhoni-text23 {
+  top: 3857px;
+  left: 539px;
+  color: rgba(255, 255, 255, 1);
+  width: 460px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 143.20000410079956%;
+  font-stretch: normal;
+  text-decoration: none;
+}
